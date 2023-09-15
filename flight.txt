@@ -1,0 +1,23 @@
+|TICKET INFORMATION:
+
+Name: Eren Yaeger
+Phone: 9599532043
+Address: C-187,Shaurya Apartments,Sector - 62, Noida, UP
+Passport Number: 
+Origin: DELHI
+Destination: CHENNAI
+Food: Vegetarian
+Number of Seats: 2
+Class: Business
+Date of departure: 15052023
+Time: 4.00 PM
+Ticket: HF132
+Bill(in Rupees): 4998/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: YES
+
+Pickup Location: Portico
+Drop Off: DELHI Airport
+Fare: 300/-
