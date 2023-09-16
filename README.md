@@ -56,9 +56,9 @@ This repository contains the following key components:
 
 * **Anujesh Bansal** - *Initial work* - [anujeshify](https://github.com/anujeshify)
 * **Vanshika Gupta** - [VanshikaaGuptaa](https://github.com/VanshikaaGuptaa)
-* **Atish Ranjan Mahali**
+* **Atish Ranjan Mahali** [atishmahali](https://github.com/atishmahali)
 
-See also the list of [contributors](https://github.com/vertigo-airlines/airline-management-system/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/anujeshify/Vertigo-Airlines_Algorithm-Visualisation-of-Real-World-Problems/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
 
