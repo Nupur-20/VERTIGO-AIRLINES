@@ -59,8 +59,4 @@ This repository contains the following key components:
 * **Atish Ranjan Mahali** [atishmahali](https://github.com/atishmahali)
 * **Nupur Tiwari** [Nupur-20](https://github.com/Nupur-20)
 
-See also the list of [contributors](https://github.com/anujeshify/Vertigo-Airlines_Algorithm-Visualisation-of-Real-World-Problems/graphs/contributors) who participated in this project.
-
-## Acknowledgments
-
 * Inspiration - We were inspired to make this program from different algorithm techniques and visualise the real world problems and their effective solution visualisation.
